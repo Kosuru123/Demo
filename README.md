@@ -1,1 +1,1 @@
-# Demo
+# Simple ci-cd demo
